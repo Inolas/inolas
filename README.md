@@ -1,3 +1,4 @@
+inolas.github.io
 https://github.com/Inolas/inolas.github.io.git
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
