@@ -4,9 +4,11 @@ import Sidebar from './components/Sidebar';
 
 function App() {
   return (
-    
+    <div id="page-top">
     <div id="sideNav">
       <Sidebar></Sidebar>
+    </div>
+
     </div>
     
     ///////////////////////////////////
