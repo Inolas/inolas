@@ -198,3 +198,7 @@ a {
 a:hover, a:focus, a:active {
   color: #007BFF;
 }
+
+.palm-tree::before {
+  content: "\01F334";
+}

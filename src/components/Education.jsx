@@ -21,8 +21,8 @@ export default class Education extends Component{
         return(
             <section className="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
             <div className="w-100">
-            <h2 className="mb-5">Education</h2><div className="row">
-
+            <h2 className="mb-5">Education</h2>
+            <div className="row">
                 <div className="col-6 resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
                     <div className="resume-content">
                     <span className="text-primary">January 2018 - December 2019</span>
