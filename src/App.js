@@ -1,12 +1,16 @@
 import React from 'react';
 import './App.css';
 import Sidebar from './components/Sidebar';
+import About from './components/About';
 
 function App() {
   return (
     <div id="page-top">
     <div id="sideNav">
       <Sidebar></Sidebar>
+    </div>
+    <div>
+      <About></About>
     </div>
 
     </div>
