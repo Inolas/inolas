@@ -1,4 +1,5 @@
 import React, {Component} from 'react'
+import Social from './SocialMedia'
 
 export default class About extends Component{
     render()
@@ -16,14 +17,13 @@ export default class About extends Component{
                         <a href="mailto:salonibuddhadeo@gmail.com">salonibuddhadeo@gmail.com</a>
                     </div>
                     <p className="lead mb-5">I am experienced in .</p>
-                    <div className="social-icons">
-                    <a href="https://www.linkedin.com/in/saloni-buddhadeo-b94a67115/">
-                        <i className="fab fa-linkedin-in"></i>
-                    </a>
-                    <a href="https://www.github.com/Inolas">
-                        <i className="fab fa-github"></i>
-                    </a>
-                    </div>
+                    {/* <div className="navbar-toggler" style={{visibility:"hidded;"}}
+                        data-toggle="collapse" data-target="#navbarSupportedContent"
+                        aria-controls="navbarSupportedContent" aria-expanded="false" 
+                        aria-label="Toggle navigation"> */}
+                        Hide me when screen size wide
+                            <Social></Social>
+
                 </div>
                 </section>
         )
