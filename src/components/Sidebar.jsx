@@ -34,16 +34,17 @@ export default class Sidebar extends Component {
               <a className="nav-link js-scroll-trigger" href="#skills">Skills</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll-trigger" href="#interests">Interests</a>
+              <a className="nav-link js-scroll-trigger" href="#projects">Projects</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll-trigger" href="#awards">Certificates</a>
+              <a className="nav-link js-scroll-trigger" href="#certificates">Certificates</a>
             </li>
           </ul>
         </div>
         Hide me when screen size small
         <Social></Social>
-        <h6>Made with Double Capuccino in my Body and Cube in my Mind. <span>Thanks to startbootstrap.com Resume template</span> </h6>
+        <h6 className="mb-0">Made with Double Capuccino in my Body and Cube in my Mind.</h6>
+        <span>Thanks to startbootstrap.com Resume template</span>
         
       </nav>
     </div>

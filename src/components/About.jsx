@@ -25,7 +25,9 @@ export default class About extends Component{
                         aria-controls="navbarSupportedContent" aria-expanded="false" 
                         aria-label="Toggle navigation"> */}
                         Hide me when screen size wide
+                        <div className="social-about">
                             <Social></Social>
+                        </div>
 
                 </div>
                 </section>

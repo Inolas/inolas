@@ -4,6 +4,8 @@ import Sidebar from './components/Sidebar';
 import About from './components/About';
 import Education from './components/Education';
 import Exp from './components/Experience'
+import Skills from './components/Skills';
+import Projects from './components/Projects';
 
 function App() {
   return (
@@ -15,6 +17,8 @@ function App() {
       <About></About>
       <Education></Education>
       <Exp></Exp>
+      <Skills></Skills>
+      <Projects></Projects>
     </div>
 
     </div>
