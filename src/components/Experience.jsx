@@ -10,7 +10,7 @@ export default class Exp extends Component{
                     <div className="col-6 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
                         <div className="resume-content">
                         <span className="text-primary">January 2018 - December 2019</span>
-                            <h3 className="mb-0">Masters of Science</h3><h4>Computer Science</h4>
+                            <h3 className="mb-0">Graduate Assistant</h3><h4>Computer Science</h4>
                             <div className="subheading">California Statie University, Long Beach</div>
                             <p>Data Analysis<br></br>Python script<br></br>Blah Blah Blah; Enjoyed food with Dr. J lots of food, cakes, cookies in these 2 years<br>
                             </br>Maybe more blah blah blah</p>
@@ -19,7 +19,7 @@ export default class Exp extends Component{
                     <div className=" col-6 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
                         <div className="resume-content">
                         <span className="text-primary">January 2018 - December 2019</span>
-                            <h3 className="mb-0">Masters of Science</h3><h4>Computer Science</h4>
+                            <h3 className="mb-0">Student Web Developer</h3><h4>ASI Communications</h4>
                             <div className="subheading">California Statie University, Long Beach</div>
                             <p>Joomla, Joomla, and more Jomla <br></br>Then a bit of Angular; Strapi; Angular again ;<br></br> and Resact js as well</p>
                         </div>

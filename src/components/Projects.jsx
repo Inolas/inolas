@@ -9,7 +9,7 @@ export default class Projects extends Component{
                 <div className="row">
                     <div className="col-6 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
                         <div className="resume-content">
-                        <span className="text-primary">January 2018 - December 2019</span>
+                        <span className="text-primary">May 2016 - April 2017</span>
                             <h3 className="mb-0">Mechanographics</h3><h4>Visualization of Free Body Diagrams</h4>
                             <div className="subheading">KJ Somaiya College of Engineering, Mumbai</div>                            
                             <p>BE project<br></br>Python script<br></br>Blah Blah Blah;
@@ -19,7 +19,7 @@ export default class Projects extends Component{
                     <div className=" col-6 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
                         <div className="resume-content">
                         <span className="text-primary">January 2018 - December 2019</span>
-                            <h3 className="mb-0">Masters of Science</h3><h4>Computer Science</h4>
+                            <h3 className="mb-0">Version Control System</h3><h4>Computer Science</h4>
                             <div className="subheading">California Statie University, Long Beach</div>
                             <p>Joomla, Joomla, and more Jomla <br></br>Then a bit of Angular; Strapi; Angular again ;<br></br> and Resact js as well</p>
                         </div>
