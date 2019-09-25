@@ -29,7 +29,19 @@ export default class Education extends Component{
                         <h3 className="mb-0">Masters of Science</h3><h4>Computer Science</h4>
                         <div className="subheading">California Statie University, Long Beach</div>
                         <p>GPA: 3.2</p>
+                        <div className="subheading">Courses taken:</div>
+                        <ul className="fa-ul mb-0">
+                        <li> Advanced Algorithms</li>
+                        <li> Software Engineering and Software Architecture</li>
+                        <li> Database Architecture</li>
+                        <li> Big Data and NoSQL</li>
+                        <li> Software Frameworks using .NET</li>
+                        <li> Object Oriented Programming</li>
+                        <li> Deep Learning</li>
+
+                        </ul>
                     </div>
+                    
                 </div>
                 <div className="col-6 resume-item d-flex flex-column flex-md-row justify-content-between">
                     <div className="resume-content">
@@ -37,6 +49,17 @@ export default class Education extends Component{
                         <h3 className="mb-0">Bachelor of Engineering</h3><h4>Computer Engineering</h4>
                         <div className="subheading">KJ Somaiya College of Engineering, Mumbai</div>
                         <p>GPA: 3.05</p>                        
+                        <div className="subheading">Courses taken:</div>
+                            <ul className="fa-ul mb-0">
+                            <li> Algorithms</li>
+                            <li> Software Engineering and Software Architecture</li>
+                            <li> Database Architecture</li>
+                            <li> Artificial Intelligence</li>
+                            <li> Web Development</li>
+                            <li> Human Computer Interaction</li>
+                            <li> Machine Learning</li>
+
+                            </ul>
                         </div>
                     </div>
                 </div>
