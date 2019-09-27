@@ -23,7 +23,7 @@ export default class Education extends Component{
             <div className="w-100">
             <h2 className="mb-5">Education</h2>
             <div className="row">
-                <div className="col-6 resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+                <div className="col-md-6 col-sm-12 resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
                     <div className="resume-content">
                     <span className="text-primary">January 2018 - December 2019</span>
                         <h3 className="mb-0">Masters of Science</h3><h4>Computer Science</h4>
@@ -43,7 +43,7 @@ export default class Education extends Component{
                     </div>
                     
                 </div>
-                <div className="col-6 resume-item d-flex flex-column flex-md-row justify-content-between">
+                <div className="col-md-6 col-sm-12 resume-item d-flex flex-column flex-md-row justify-content-between">
                     <div className="resume-content">
                     <span className="text-primary">August 2013 - July 2017</span>
                         <h3 className="mb-0">Bachelor of Engineering</h3><h4>Computer Engineering</h4>

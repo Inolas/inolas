@@ -6,7 +6,7 @@ import Education from './components/Education';
 import Exp from './components/Experience'
 import Skills from './components/Skills';
 import Projects from './components/Projects';
-import Certi from './components/Cerificates';
+// import Certi from './components/Cerificates';
 
 function App() {
   return (
@@ -20,7 +20,7 @@ function App() {
       <Exp></Exp>
       <Skills></Skills>
       <Projects></Projects>
-      <Certi></Certi>
+      
     </div>
 
     </div>

@@ -8,6 +8,7 @@ body {
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 54px;
   color: #868e96;
+  background: #000;
 }
 
 @media (min-width: 992px) {
@@ -27,6 +28,7 @@ h6 {
   font-weight: 700;
   text-transform: uppercase;
   color: #343a40;
+  color: #087099 !important;
 }
 
 h1 {
@@ -175,6 +177,15 @@ section.resume-section .resume-item .resume-date {
   min-width: none;
 }
 
+@media (max-width: 576px){
+
+.sidebar-social{
+    visibility: collapse;
+    width: 0px;
+    height: 0px;
+  }
+}
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
@@ -184,9 +195,9 @@ section.resume-section .resume-item .resume-date {
   }
   
   .social-icons .sideNav{
-    visibility: hidden;
+    visibility: collapse;
   }
-  
+
 }
 
 @media (min-width: 992px) {
@@ -197,11 +208,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #007ADD !important;
+  background-color: #000 !important;
 }
 
 .text-primary {
-  color: #007BFF !important;
+  color: #0092cc !important;
 }
 
 a {
@@ -242,4 +253,9 @@ a:hover, a:focus, a:active {
 .project-card-content_text {
   font-size: 1.6rem;
   line-height: 2rem;
+}
+
+#hover-visible:hover{
+  visibility: visible;
+  color: aliceblue !important;
 }

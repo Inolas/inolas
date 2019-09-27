@@ -40,45 +40,6 @@ export default class Skills extends Component{
                         </ul>
                     </div>
                 </div>
-                
-                <ul className="list-inline dev-icons">
-                <li className="list-inline-item">
-                    <i className="fab fa-html5"></i>
-                </li>
-                <li className="list-inline-item">
-                    <i className="fab fa-css3-alt"></i>
-                </li>
-                <li className="list-inline-item">
-                    <i className="fab fa-js"></i>
-                </li>
-                <li className="list-inline-item">
-                    <i className="fab fa-angular"></i>
-                </li>
-                <li className="list-inline-item">
-                    <i className="fab fa-react"></i>
-                </li>
-                <li className="list-inline-item">
-                    <i className="fab fa-node-js"></i>
-                </li>
-                <li className="list-inline-item">
-                    <i className="fab fa-java"></i>
-                </li>
-                <li className="list-inline-item">
-                    <i className="fab fa-android"></i>
-                </li>
-                <li className="list-inline-item">
-                    <i className="fab fa-pyton"></i>
-                </li>
-                <li className="list-inline-item">
-                    <i className="fab fa-c"></i>
-                </li>
-                <li className="list-inline-item">
-                    <i className="fab fa-cpp"></i>
-                </li>
-                <li className="list-inline-item">
-                    <i className="fab fa-sql"></i>
-                </li>
-                </ul>
 
                 <div className="subheading mb-3">Workflow</div>
                 <ul className="fa-ul mb-0">

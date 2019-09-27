@@ -7,7 +7,7 @@ export default class Exp extends Component{
                 <div className="w-100">
                 <h2 className="mb-5">Experience</h2>
                 <div className="row">
-                    <div className="col-5 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
+                    <div className="col-md-6 col-sm-12 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
                         <div className="resume-content">
                         <span className="text-primary">February 2018 - December 2019</span>
                             <h3 className="mb-0">Graduate Assistant</h3><h4>Office of Accreditation, College Of Business</h4>
@@ -27,7 +27,7 @@ export default class Exp extends Component{
                             <span className="text-"> MS Excel, Analytical Reasoning, Attention to detail, SQL</span>
                         </div>
                     </div>
-                    <div className="col-6 offset-1 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
+                    <div className="col-md-6 col-sm-12 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
                         <div className="resume-content">
                         <span className="text-primary">June 2019 - August 2019</span>
                             <h3 className="mb-0">Student Web Developer</h3><h4>ASI Communications</h4>
@@ -42,7 +42,7 @@ export default class Exp extends Component{
                             <span className="text-">JavaScript, JQuery, AngularJS, Joomla</span>
                         </div>
                     </div>
-                    <div className="col-6 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
+                    <div className="col-md-6 col-sm-12 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
                         <div className="resume-content">
                         <span className="text-primary">September 2017 - November 2017</span>
                             <h3 className="mb-0">Teaching Assistant</h3><h4>Digital Electronics and Internet of Things</h4>
@@ -50,18 +50,19 @@ export default class Exp extends Component{
                             <p>
                             ★ Digital Electronics<br></br>
                             ★ Internet of Things<br></br>
-                            ★ Conducted practical sessions on <a href="https://youtu.be/v74TlbXg1aE">Raspberry Pi 3 Model B.</a>
+                            ★ Conducted practical sessions on <a href="https://youtu.be/v74TlbXg1aE"target="_blank" rel="noopener noreferrer">Raspberry Pi 3 Model B.</a>
                             </p>
                             <div className="subheading">Technology / Knowledge Used: </div>
                             <span className="text-">Logic Gates, Raspberry Pi, Internet of Things</span>
                         </div>
                     </div>
-                    <div className="col-6 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
+                    <div className="col-md-6 col-sm-12 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
                         <div className="resume-content">
                         <span className="text-primary">June 2015 - October 2015</span>
                             <h3 className="mb-0">Pavoh</h3><h4>Frontend Web Developer Intern</h4>
                             <div className="subheading">RiiDL Incubator, Mumbai
-                            &nbsp;<a href="https://riidl.org/assets/assets/docs/RIIDL_Broucher.pdf" target="_blank" className="fa-link fa text-primary"></a>
+                            &nbsp;<a href="https://riidl.org/assets/assets/docs/RIIDL_Broucher.pdf" target="_blank" className="fa-link fa text-primary" rel="noopener noreferrer">
+                                <span className="sr-only="></span></a>
                             </div>
                             <p>
                             ★ Created the coming soon page using Javascript <br></br>
@@ -73,7 +74,7 @@ export default class Exp extends Component{
                             <span className="text-">JavaScript, HTML5, Bootstrap</span>
                         </div>
                     </div>
-                    <div className=" col-6 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
+                    <div className="col-md-6 col-sm-12 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
                         <div className="resume-content">
                         <span className="text-primary">December 2014 - January 2015</span>
                             <h3 className="mb-0">Internship cum Training</h3><h4>Android App Development</h4>
