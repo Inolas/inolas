@@ -14,7 +14,8 @@ export default class About extends Component{
                         {/* <h3 className="text-right"><span className="text-primary">Inolas</span></h3> */}
                     </div>
                     <div className="subheading mb-5">
-                        <span role="img" className="palm-tree" aria-label="palm-tree">Long Beach, CA 🌴</span>
+                        {/* <span role="img" className="palm-tree" aria-label="palm-tree"></span> */}
+                    Long Beach, CA 
                         <contactDetails></contactDetails>
                         {/* <br></br>(657) 666-0787 <br></br>
                         <a href="mailto:salonibuddhadeo@gmail.com">salonibuddhadeo@gmail.com</a> */}
