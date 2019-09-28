@@ -14,6 +14,9 @@ export default class Projects extends Component{
                             <div className="subheading">KJ Somaiya College of Engineering, Mumbai</div>                            
                             <p>BE project<br></br>A mechanics based problem is taken as input in the form of English sentence. 
                                 Which is later processed using Stanford CoreNLP to render a free body diagram.
+                                Publication: <a href="https://www.ijcaonline.org/archives/volume165/number11/jain-2017-ijca-914049.pdf" target="_blank" className="fa-link fa text-primary" rel="noopener noreferrer">
+                                Visualization of Free Body Diagrams
+                                <span className="sr-only="></span></a>
                             </p>
                         </div>
                     </div>

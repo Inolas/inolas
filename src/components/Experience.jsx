@@ -77,7 +77,7 @@ export default class Exp extends Component{
                     <div className="col-md-6 col-sm-12 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
                         <div className="resume-content">
                         <span className="text-primary">December 2014 - January 2015</span>
-                            <h3 className="mb-0">Internship cum Training</h3><h4>Android App Development</h4>
+                            <h3 className="mb-0">Internship and Training</h3><h4>Android App Development</h4>
                             <div className="subheading">ECIL, Hyderabad, India</div>
                             <p>
                             ★ Developed an android application - File Xplore. <br></br>
