@@ -20,7 +20,7 @@ export default class Sidebar extends Component {
             <span className="d-none d-lg-block">
               <img className="img-fluid img-profile rounded-circle mx-auto mb-2" src="images/profile.jpg" alt=""></img>
             </span>
-            <span className="d-block d-lg-none">iNOLAS</span>
+            <span className="d-block d-lg-none">INOLAS</span>
           </a>
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav">
