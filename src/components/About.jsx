@@ -9,16 +9,22 @@ export default class About extends Component{
             
                 <section className="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
                 <div className="w-100">
-                    <div className="mb-0">
-                        <h1> <span className="text-primary">Saloni</span> Buddhadeo</h1>
-                        {/* <h3 className="text-right"><span className="text-primary">Inolas</span></h3> */}
+                    <div className="mb-0 row">
+                        <div className="text-center col-sm-3 d-block d-lg-none">
+                            <img className="img-fluid img-profile rounded-circle" width="30%" height="30%" src="images/profile.jpg" alt=""></img>
+                        </div>
+                        <div className="col-sm-9">
+                            <h1> <span className="text-primary">Saloni</span> Buddhadeo</h1>
+                            {/* <h3 className="text-right"><span className="text-primary">Inolas</span></h3> */}
+                        </div>
+
                     </div>
                     <div className="subheading mb-5">
                         {/* <span role="img" className="palm-tree" aria-label="palm-tree"></span> */}
                     Long Beach, CA 
                         <contactDetails></contactDetails>
-                        {/* <br></br>(657) 666-0787 <br></br>
-                        <a href="mailto:salonibuddhadeo@gmail.com">salonibuddhadeo@gmail.com</a> */}
+                        <br></br>+1 (657) 666-0787 <br></br>
+                        <a href="mailto:salonibuddhadeo@gmail.com">salonibuddhadeo@gmail.com</a>
                     </div>
                     <p className="lead mb-5">
                         Web developer and a software engineer who loves to take challenges and believes in the idea of constant creation

@@ -14,10 +14,10 @@ export default class Skills extends Component{
                             <i className="fa-li fab fa-java"></i>
                             Java</li>
                         <li>
-                            <i className="fa-li fa fa-plus"></i>
+                            <i className="fa-li fab fa-python"></i>
                             Python</li>
                         <li>
-                            <i className="fa-li fa fa-plus"></i>
+                            <i className="fa-li fa fa-database"></i>
                             SQL, Spatial Database</li>
                         <li>
                             <i className="fa-li fab fa-android"></i>
@@ -29,10 +29,10 @@ export default class Skills extends Component{
                             <i className="fa-li fab fa-java"></i>
                             Java</li>
                         <li>
-                            <i className="fa-li fa fa-plus"></i>
+                            <i className="fa-li fab fa-python"></i>
                             Python</li>
                         <li>
-                            <i className="fa-li fa fa-plus"></i>
+                            <i className="fa-li fa fa-database"></i>
                             SQL, Spatial Database</li>
                         <li>
                             <i className="fa-li fab fa-android"></i>
@@ -51,10 +51,8 @@ export default class Skills extends Component{
                     Cross Browser Testing &amp; Debugging</li>
                 <li>
                     <i className="fa-li fa fa-plus"></i>
-                    Cross Functional Teams</li>
-                <li>
-                    <i className="fa-li fa fa-plus"></i>
-                    Agile Development &amp; Scrum</li>
+                    Attention to detail</li>
+
                 </ul>
             </div>
             </section>

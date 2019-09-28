@@ -7,7 +7,7 @@
 body {
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 54px;
-  color: #868e96;
+  color: #c7d3de;
   background: #000;
 }
 
@@ -177,7 +177,7 @@ section.resume-section .resume-item .resume-date {
   min-width: none;
 }
 
-@media (max-width: 576px){
+@media (max-width: 992px){
 
 .sidebar-social{
     visibility: collapse;
@@ -216,7 +216,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #007BFF;
+  color: #087099;
 }
 
 a:hover, a:focus, a:active {

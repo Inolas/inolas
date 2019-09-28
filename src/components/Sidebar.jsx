@@ -3,6 +3,9 @@ import Social from './SocialMedia'
 
 export default class Sidebar extends Component {
   render() {
+    const color = {
+      color: '#000'
+    };
     return (
         // <div id="sideNav" className="navnar navbar-expand-lg navbar-dark">
 
@@ -17,7 +20,7 @@ export default class Sidebar extends Component {
             <span className="d-none d-lg-block">
               <img className="img-fluid img-profile rounded-circle mx-auto mb-2" src="images/profile.jpg" alt=""></img>
             </span>
-            <span className="d-block d-lg-none">Saloni Buddhadeo</span>
+            <span className="d-block d-lg-none">iNOLAS</span>
           </a>
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav">
@@ -44,9 +47,10 @@ export default class Sidebar extends Component {
         <div  className="sidebar-social">
           <Social>Hide me when screen size small</Social>
         <div id="hover-visible">
-          <h6 className="mb-0" style={{visibility:"collapse"}}>
-            Made with Double Capuccino in my Body and Cube in my Mind.</h6>
-          <span>Credits: startbootstrap.com Resume template</span>
+        
+          <h6 className="mb-0" style={{visibility:""}}>
+          <span style={color}>    Made with Double Capuccino in my Body and Cube in my Mind.</span>
+            </h6>
         </div>
         </div>
       </nav>

@@ -18,6 +18,9 @@ export default class Education extends Component{
         //         </div>
         //       );
         // }
+        const ml = {
+            margin: '0px 0px'
+          };
         return(
             <section className="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
             <div className="w-100">
@@ -30,7 +33,7 @@ export default class Education extends Component{
                         <div className="subheading">California Statie University, Long Beach</div>
                         <p>GPA: 3.2</p>
                         <div className="subheading">Courses taken:</div>
-                        <ul className="fa-ul mb-0">
+                        <ul className="fa-ul mb-0" style={ml}>
                         <li> Advanced Algorithms</li>
                         <li> Software Engineering and Software Architecture</li>
                         <li> Database Architecture</li>
@@ -50,7 +53,7 @@ export default class Education extends Component{
                         <div className="subheading">KJ Somaiya College of Engineering, Mumbai</div>
                         <p>GPA: 3.05</p>                        
                         <div className="subheading">Courses taken:</div>
-                            <ul className="fa-ul mb-0">
+                            <ul class="fa-ul mb-0" style={ml}>
                             <li> Algorithms</li>
                             <li> Software Engineering and Software Architecture</li>
                             <li> Database Architecture</li>
