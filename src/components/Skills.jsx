@@ -22,21 +22,22 @@ export default class Skills extends Component{
                         <li>
                             <i className="fa-li fab fa-android"></i>
                             Android App Development</li>
-                        </ul></div>
-                        <div className="col-6">
+                        </ul>
+                    </div>
+                    <div className="col-6">
                         <ul className="fa-ul mb-0">
                         <li>
-                            <i className="fa-li fab fa-java"></i>
-                            Java</li>
+                            <i className="fa-li fa fa-plus"></i>
+                            C, C++</li>
                         <li>
-                            <i className="fa-li fab fa-python"></i>
-                            Python</li>
+                            <i className="fa-li fab fa-react"></i>
+                            AngularJS, ReactJS</li>
                         <li>
                             <i className="fa-li fa fa-database"></i>
-                            SQL, Spatial Database</li>
+                            GraphDatabase, Neo4J</li>
                         <li>
-                            <i className="fa-li fab fa-android"></i>
-                            Android App Development</li>
+                            <i className="fa-li fa fa-file-excel"></i>
+                            Microsoft Excel</li>
                         </ul>
                     </div>
                 </div>
@@ -48,7 +49,7 @@ export default class Skills extends Component{
                     Mobile-First, Responsive Design</li>
                 <li>
                     <i className="fa-li fa fa-plus"></i>
-                    Cross Browser Testing &amp; Debugging</li>
+                    Teamwork</li>
                 <li>
                     <i className="fa-li fa fa-plus"></i>
                     Attention to detail</li>

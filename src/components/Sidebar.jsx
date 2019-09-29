@@ -22,16 +22,19 @@ export default class Sidebar extends Component {
             </span>
             <span className="d-block d-lg-none">INOLAS</span>
           </a>
+          <div  className="sidebar-social">
+            <Social>Hide me when screen size small</Social>
+          </div>
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav">
             <li className="nav-item">
               <a className="nav-link js-scroll-trigger active" href="#about">About</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll-trigger" href="#experience">Experience</a>
+              <a className="nav-link js-scroll-trigger" href="#education">Education</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll-trigger" href="#education">Education</a>
+              <a className="nav-link js-scroll-trigger" href="#experience">Experience</a>
             </li>
             <li className="nav-item">
               <a className="nav-link js-scroll-trigger" href="#skills">Skills</a>
@@ -44,15 +47,12 @@ export default class Sidebar extends Component {
             </li> */}
           </ul>
         </div>
-        <div  className="sidebar-social">
-          <Social>Hide me when screen size small</Social>
         <div id="hover-visible">
-        
           <h6 className="mb-0" style={{visibility:""}}>
           <span style={color}>    Made with Double Capuccino in my Body and Cube in my Mind.</span>
             </h6>
         </div>
-        </div>
+        
       </nav>
     </div>
     )

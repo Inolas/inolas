@@ -13,7 +13,7 @@ export default class Projects extends Component{
                             <h3 className="mb-0">Mechanographics</h3><h4>Visualization of Free Body Diagrams</h4>
                             <div className="subheading">KJ Somaiya College of Engineering, Mumbai</div>                            
                             <p>BE project<br></br>A mechanics based problem is taken as input in the form of English sentence. 
-                                Which is later processed using Stanford CoreNLP to render a free body diagram.
+                                Which is later processed using Stanford CoreNLP to render a free body diagram.<br></br>
                                 Publication: <a href="https://www.ijcaonline.org/archives/volume165/number11/jain-2017-ijca-914049.pdf" target="_blank" className="fa-link fa text-primary" rel="noopener noreferrer">
                                 Visualization of Free Body Diagrams
                                 <span className="sr-only="></span></a>
@@ -36,19 +36,23 @@ export default class Projects extends Component{
                     <div className="col-md-6 col-sm-12 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
                         <div className="resume-content">
                         <span className="text-primary">September 2017 - November 2017</span>
-                            <h3 className="mb-0">Teaching Assistant</h3><h4>Digital Electronics and Internet of Things</h4>
-                            <div className="subheading">Advanced Computers, India</div>
-                            <p>Practical for Raspberry Pi 3; Gates; ARM, etc, theory.</p>    
+                            <h3 className="mb-0"></h3><h4>Get Light Information using Arduino</h4>
+                            <div className="subheading">Cloud Computing - Aademic Project</div>
+                            <p>MIT app inventor, Arduino, Cloud data Storage and Retrival.
+                                Documentation: <a href="https://www.github.com/Inolas/getLightInfo.pdf" 
+                                target="_blank" className="fa-link fa text-primary" rel="noopener noreferrer">
+                                <span className="sr-only="></span></a>
+                            </p>
                         </div>
                     </div>
-                    <div className="col-md-6 col-sm-12 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
+                    {/* <div className="col-md-6 col-sm-12 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
                         <div className="resume-content">
                         <span className="text-primary">June 2015 - October 2015</span>
                             <h3 className="mb-0">M-ghar</h3><h4>Frontend Web Developer Intern</h4>
                             <div className="subheading">KJ Somaiya College of Engineering, Mumbai</div>
                             <p></p> 
                         </div>
-                    </div>
+                    </div> */}
                     <div className="col-md-6 col-sm-12 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
                         <div className="resume-content">
                         <span className="text-primary">December 2014 - January 2015</span>
