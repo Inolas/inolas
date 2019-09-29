@@ -31,20 +31,20 @@ export default class Projects extends Component{
                                 Non-valid words (in this case, only "create" command is accepted) are r</p>
                         </div>
                     </div>
-                    </div>
-                    <div className="row">
-                    <div className="col-md-6 col-sm-12 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
+                    {/* </div> */}
+                    {/* <div className="row"> */}
+                    {/* <div className="col-md-6 col-sm-12 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
                         <div className="resume-content">
                         <span className="text-primary">September 2017 - November 2017</span>
                             <h3 className="mb-0"></h3><h4>Get Light Information using Arduino</h4>
-                            <div className="subheading">Cloud Computing - Aademic Project</div>
+                            <div className="subheading">Cloud Computing - Academic Project</div>
                             <p>MIT app inventor, Arduino, Cloud data Storage and Retrival.
                                 Documentation: <a href="https://www.github.com/Inolas/getLightInfo.pdf" 
                                 target="_blank" className="fa-link fa text-primary" rel="noopener noreferrer">
                                 <span className="sr-only="></span></a>
                             </p>
                         </div>
-                    </div>
+                    </div> */}
                     {/* <div className="col-md-6 col-sm-12 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
                         <div className="resume-content">
                         <span className="text-primary">June 2015 - October 2015</span>

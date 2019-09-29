@@ -23,7 +23,7 @@ export default class Exp extends Component{
                                 ★ Assessment Test to assess their business school for accreditation.
                                 <br></br>
                             </p>
-                            <div className="subheading">Technology and Skills Used: </div>
+                            <div className="subheading">Technologies / Skills Used: </div>
                             <span className="text-"> MS Excel, Analytical Reasoning, Attention to detail, SQL</span>
                         </div>
                     </div>
@@ -38,7 +38,7 @@ export default class Exp extends Component{
                             ★ Website updates for on campus events using Joomla<br></br>
                             ★ Research on Headless CMS like Strapi and DirectUs to migrate the website from Joomla
                             </p>
-                            <div className="subheading">Technology and Skills Used: </div>
+                            <div className="subheading">Technologies / Skills Used: </div>
                             <span className="text-">JavaScript, JQuery, AngularJS, Joomla</span>
                         </div>
                     </div>
@@ -52,8 +52,8 @@ export default class Exp extends Component{
                             ★ Internet of Things<br></br>
                             ★ Conducted practical sessions on <a href="https://youtu.be/v74TlbXg1aE"target="_blank" rel="noopener noreferrer">Raspberry Pi 3 Model B.</a>
                             </p>
-                            <div className="subheading">Technology / Knowledge Used: </div>
-                            <span className="text-">Logic Gates, Raspberry Pi, Internet of Things</span>
+                            {/* <div className="subheading">Technology Used: </div>
+                            <span className="text-">Logic Gates, Raspberry Pi, Internet of Things</span> */}
                         </div>
                     </div>
                     <div className="col-md-6 col-sm-12 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
@@ -70,7 +70,7 @@ export default class Exp extends Component{
                             ★ RiiDL (Research Innovation Incubation Design Lab) is an Innovation Accelerator and Incubation on the Somaiya Vidyaviahr campus. 
                                 RiiDL is FABLAB and associated with MIT's Center for Bits and Atoms, USA.
                             </p>
-                            <div className="subheading">Technology and Skills Used: </div>
+                            <div className="subheading">Technologies / Skills Used: </div>
                             <span className="text-">JavaScript, HTML5, Bootstrap</span>
                         </div>
                     </div>
@@ -85,7 +85,7 @@ export default class Exp extends Component{
                             rename, and delete, apart from browsing the files. <br></br>
                             ★ We used list adapter for accessing the files. <br></br>
                             </p>
-                            <div className="subheading">Technology and Skills Used: </div>
+                            <div className="subheading">Technologies / Skills Used: </div>
                             <span className="text-">Eclipse, Java, Android Development</span>
                         </div>
                     </div>
