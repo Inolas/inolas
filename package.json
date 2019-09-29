@@ -2,7 +2,7 @@
   "name": "inolas",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://inolas.github.io",
+  "homepage": "https://inolas.github.io/inolas",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
