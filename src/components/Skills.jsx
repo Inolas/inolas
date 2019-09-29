@@ -31,7 +31,7 @@ export default class Skills extends Component{
                             C, C++</li>
                         <li>
                             <i className="fa-li fab fa-react"></i>
-                            AngularJS, ReactJS</li>
+                            ReactJS</li>
                         <li>
                             <i className="fa-li fa fa-database"></i>
                             GraphDatabase, Neo4J</li>
