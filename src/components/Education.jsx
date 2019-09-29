@@ -30,7 +30,7 @@ export default class Education extends Component{
                     <div className="resume-content">
                     <span className="text-primary">January 2018 - December 2019</span>
                         <h3 className="mb-0">Masters of Science</h3><h4>Computer Science</h4>
-                        <div className="subheading">California Statie University, Long Beach</div>
+                        <div className="subheading">California State University, Long Beach</div>
                         <p>GPA: 3.2</p>
                         <div className="subheading">Courses taken:</div>
                         <ul className="fa-ul mb-0" style={ml}>
