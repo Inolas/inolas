@@ -28,7 +28,7 @@ export default class Projects extends Component{
                             <p>Features<br></br>
                                 Copies an existing repository into a destination folder of user's specified name.
                                 Exit application from the command prompt using "exit" command.
-                                Non-valid words (in this case, only "create" command is accepted) are r</p>
+                                Non-valid words (in this case, only "create" command is accepted) are rejected.</p>
                         </div>
                     </div>
                     {/* </div> */}
