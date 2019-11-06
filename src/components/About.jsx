@@ -17,6 +17,9 @@ export default class About extends Component{
                             <h1> <span className="text-primary">Saloni</span> Buddhadeo</h1>
                             {/* <h3 className="text-right"><span className="text-primary">Inolas</span></h3> */}
                         </div>
+                        <div class="col-sm-3">
+                            <button id="change-theme-btn">Mode</button>
+                        </div>
 
                     </div>
                     <div className="subheading mb-5">
