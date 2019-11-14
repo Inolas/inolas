@@ -42,6 +42,7 @@ export default class About extends Component{
                         <a href="mailto:salonibuddhadeo@gmail.com">salonibuddhadeo@gmail.com</a>
                     </div>
                     <p className="lead mb-5">
+                        <h4>Things you are passionate about are never random.</h4>
                         Software Engineer and a Web Developer who loves to take challenges and believes in the idea of constant creation
                         
                         {/* I was in 9th grade when I "developed my first website"...... fastforward today I like to work with Databases, 
