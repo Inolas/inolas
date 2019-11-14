@@ -18,7 +18,19 @@ export default class About extends Component{
                             {/* <h3 className="text-right"><span className="text-primary">Inolas</span></h3> */}
                         </div>
                         <div class="col-sm-3">
-                            <button id="change-theme-btn">Mode</button>
+                            {/* <button id="change-theme-btn">Mode</button> */}
+                            {/* function retheme() {
+  var cc = document.body.className;
+  if (cc.indexOf("darktheme") > -1) {
+    document.body.className = cc.replace("darktheme", "");
+//    if (opener) {opener.document.body.className = cc.replace("darktheme", "");}
+//    localStorage.setItem("preferredmode", "light");
+  } else {
+    document.body.className += " darktheme";
+//    if (opener) {opener.document.body.className += " darktheme";}
+//    localStorage.setItem("preferredmode", "dark");
+  }
+} */}
                         </div>
 
                     </div>
@@ -30,7 +42,7 @@ export default class About extends Component{
                         <a href="mailto:salonibuddhadeo@gmail.com">salonibuddhadeo@gmail.com</a>
                     </div>
                     <p className="lead mb-5">
-                        Web developer and a software engineer who loves to take challenges and believes in the idea of constant creation
+                        Software Engineer and a Web Developer who loves to take challenges and believes in the idea of constant creation
                         
                         {/* I was in 9th grade when I "developed my first website"...... fastforward today I like to work with Databases, 
                     I get inspiration and motivation from observing things in my surrounding, and that is why I prefer.

@@ -15,6 +15,11 @@ export default class Social extends Component{
                 <i className="fab fa-github"></i>
               </a>
             </span>
+            <span className="leetcode-icon" data-toggle="tooltip" title="Leetcode">
+              <a href="https://www.leetcode.com/inolas" target="_blank" rel="noopener noreferrer">
+                <i className="fab fa-leetcode">LC</i>
+              </a>
+            </span>
             </div>
         )
     }

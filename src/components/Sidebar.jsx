@@ -35,9 +35,6 @@ export default class Sidebar extends Component {
               <a className="nav-link js-scroll-trigger active" href="#about">About</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll-trigger" href="#education">Education</a>
-            </li>
-            <li className="nav-item">
               <a className="nav-link js-scroll-trigger" href="#experience">Experience</a>
             </li>
             <li className="nav-item">
@@ -45,6 +42,9 @@ export default class Sidebar extends Component {
             </li>
             <li className="nav-item">
               <a className="nav-link js-scroll-trigger" href="#projects">Projects</a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link js-scroll-trigger" href="#education">Education</a>
             </li>
             {/* <li className="nav-item">
               <a className="nav-link js-scroll-trigger" href="#certificates">Certificates</a>

@@ -93,6 +93,10 @@ p.lead {
   background-color: #171515;
 }
 
+.leetcode-icon a:hover {
+  background-color: orange;
+}
+
 .dev-icons {
   font-size: 3rem;
 }

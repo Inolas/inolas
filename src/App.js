@@ -16,11 +16,10 @@ function App() {
     </div>
     <div>
       <About></About>
-      <Education></Education>
       <Exp></Exp>
       <Skills></Skills>
       <Projects></Projects>
-      
+      <Education></Education>
     </div>
 
     </div>
