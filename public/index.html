@@ -53,9 +53,19 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-153767190-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+  
+      gtag('config', 'UA-153767190-1');
+    </script>
+  
     <script src="%PUBLIC_URL%/vendor/jquery/jquery.js"></script>
     <script src="%PUBLIC_URL%/vendor/jquery/jquery.min.js"></script>
-    <script src="change-theme.js"></script>
+    <script src="js/change-theme.js"></script>
 
     
     <script src="%PUBLIC_URL%/vendor/bootstrap/js/bootstrap.min.js"></script>

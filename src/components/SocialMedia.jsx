@@ -11,7 +11,7 @@ export default class Social extends Component{
               </a>
             </span>
             <span className="github-icon" data-toggle="tooltip" title="Github">
-              <a href="https://www.github.com/Inolas" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.github.com/inolas" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-github"></i>
               </a>
             </span>

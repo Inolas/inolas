@@ -115,6 +115,23 @@ p.lead {
   outline-color: #007ADD;
 }
 
+.resume-item{
+  -webkit-animation-name: run;
+  -webkit-animation-direction: linear alternate infinite;
+  -webkit-animation-delay: 2s;
+}
+@-webkit-keyframes run {
+  0% {
+    left: 0;
+  }
+  50% {
+    left: 100%;
+  }
+  100% {
+    left: 0;
+  }
+}
+
 @media (min-width: 992px) {
   #sideNav {
     text-align: center;
@@ -262,4 +279,9 @@ a:hover, a:focus, a:active {
 #hover-visible:hover{
   visibility: visible;
   color: aliceblue !important;
+}
+
+.flex-right {
+  margin-left: auto;
+  
 }

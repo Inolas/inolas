@@ -19,18 +19,20 @@ export default class About extends Component{
                         </div>
                         <div class="col-sm-3">
                             {/* <button id="change-theme-btn">Mode</button> */}
-                            {/* function retheme() {
-  var cc = document.body.className;
-  if (cc.indexOf("darktheme") > -1) {
-    document.body.className = cc.replace("darktheme", "");
-//    if (opener) {opener.document.body.className = cc.replace("darktheme", "");}
-//    localStorage.setItem("preferredmode", "light");
-  } else {
-    document.body.className += " darktheme";
-//    if (opener) {opener.document.body.className += " darktheme";}
-//    localStorage.setItem("preferredmode", "dark");
-  }
-} */}
+                            {/* <script>
+                            {function retheme() {
+                                var cc = document.body.className;
+                                if (cc.indexOf("darktheme") > -1) {
+                                    document.body.className = cc.replace("darktheme", "");
+                                   if (opener) {opener.document.body.className = cc.replace("darktheme", "");}
+                                   localStorage.setItem("preferredmode", "light");
+                                } else {
+                                    document.body.className += " darktheme";
+                                   if (opener) {opener.document.body.className += " darktheme";}
+                                   localStorage.setItem("preferredmode", "dark");
+                                }
+                            }}
+                            </script> */}
                         </div>
 
                     </div>
@@ -49,6 +51,7 @@ export default class About extends Component{
                     I get inspiration and motivation from observing things in my surrounding, and that is why I prefer.
                     I love creating */}
                     </p>
+                    {/* <p><h5>Ongoing Project</h5> Android app for remote consultation</p> */}
                     {/* <div className="navbar-toggler" style={{visibility:"hidded;"}}
                         data-toggle="collapse" data-target="#navbarSupportedContent"
                         aria-controls="navbarSupportedContent" aria-expanded="false" 

@@ -29,13 +29,14 @@ export default class Exp extends Component{
                             <span className="text-"> MS Excel, Analytical Reasoning, Attention to detail, SQL</span>
                         </div>
                     </div>
+                    <div className="col-md-4"></div>
                     <div className="col-md-12 col-sm-12 resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
                         <div className="resume-content">
                         <span className="text-primary">June 2019 - August 2019</span>
                             <h3 className="mb-0">Student Web Developer</h3><h4>ASI Communications</h4>
                             <div className="subheading">CSU, Long Beach</div>
                             <p className="lead">
-                            ★ Worked on front-end of University Feedback and Information page.
+                            ★ Worked on front-end of University Feedback and Information page.<br></br>
                                 Configured iPad for installing it on Kiosks on various location on campus<br></br>
                             ★ Website updates for on campus events using Joomla<br></br>
                             ★ Research on Headless CMS like Strapi and DirectUs to migrate the website from Joomla
