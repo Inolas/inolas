@@ -31,11 +31,11 @@ export default class Education extends Component{
                     <span className="text-primary">January 2018 - December 2019</span>
                         <h3 className="mb-0">Masters of Science</h3><h4>Computer Science</h4>
                         <div className="subheading">California State University, Long Beach</div>
-                        <p>GPA: 3.2</p>
+                        {/* <p>GPA: 3.2</p> */}
                         <div className="subheading">Courses taken:</div>
                         <ul className="fa-ul mb-0" style={ml}>
                         <li> Advanced Algorithms</li>
-                        <li> Software Engineering and Software Architecture</li>
+                        <li> Advanced Software Engineering and Software Architecture</li>
                         <li> Database Architecture</li>
                         <li> Big Data and NoSQL</li>
                         <li> Software Frameworks using .NET</li>
@@ -51,12 +51,12 @@ export default class Education extends Component{
                     <span className="text-primary">August 2013 - July 2017</span>
                         <h3 className="mb-0">Bachelor of Engineering</h3><h4>Computer Engineering</h4>
                         <div className="subheading">KJ Somaiya College of Engineering, Mumbai</div>
-                        <p>GPA: 3.05</p>                        
+                        {/* <p>GPA: 3.05</p>     */}
                         <div className="subheading">Courses taken:</div>
                             <ul class="fa-ul mb-0" style={ml}>
-                            <li> Algorithms</li>
-                            <li> Software Engineering and Software Architecture</li>
-                            <li> Database Architecture</li>
+                            <li> Data Structures and Algorithms</li>
+                            <li> Software Engineering</li>
+                            <li> Database Management</li>
                             <li> Artificial Intelligence</li>
                             <li> Web Development</li>
                             <li> Human Computer Interaction</li>

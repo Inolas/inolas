@@ -40,8 +40,9 @@ export default class About extends Component{
                         {/* <span role="img" className="palm-tree" aria-label="palm-tree"></span> */}
                     Long Beach, CA 
                         <contactDetails></contactDetails>
-                        <br></br>+1 (657) 666-0787 <br></br>
-                        <a href="mailto:salonibuddhadeo@gmail.com">salonibuddhadeo@gmail.com</a>
+                        {/* <br></br>+1 (657) 666-0787  */}
+                        <br></br><a href="mailto:salonibuddhadeo@gmail.com">SaloniBuddhadeo@gmail.com</a>
+                        {/* <a>firstname lastname @ gmail dot com</a> */}
                     </div>
                     <p className="lead mb-5">
                         <h4>Things you are passionate about are never random.</h4>
@@ -51,7 +52,13 @@ export default class About extends Component{
                     I get inspiration and motivation from observing things in my surrounding, and that is why I prefer.
                     I love creating */}
                     </p>
-                    {/* <p><h5>Ongoing Project</h5> Android app for remote consultation</p> */}
+                    {/* <p className="mb-5">
+                        <h5>Ongoing Project</h5>
+                        Android app for remote consultation &nbsp;
+                        <a href="https://github.com/dishalaser-com/DLA_FirebaseAuthentication">
+                            <span className="fab fa-github" style={{color:"white"}}></span>
+                        </a>
+                    </p> */}
                     {/* <div className="navbar-toggler" style={{visibility:"hidded;"}}
                         data-toggle="collapse" data-target="#navbarSupportedContent"
                         aria-controls="navbarSupportedContent" aria-expanded="false" 

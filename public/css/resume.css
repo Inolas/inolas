@@ -252,7 +252,6 @@ a:hover, a:focus, a:active {
 
 .project-card {
   display: inline-block;
-  height: 300px;
   width: 270px;
   border: 1px solid #DDD;
   border-radius: 10px;
@@ -264,6 +263,7 @@ a:hover, a:focus, a:active {
 .project-card_content {
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
   padding: 15px;
+  color: #c7d3de;
 }
 
 .project-card-content_title {
@@ -272,8 +272,8 @@ a:hover, a:focus, a:active {
 }
 
 .project-card-content_text {
-  font-size: 1.6rem;
-  line-height: 2rem;
+  font-size: 1.2rem;
+  
 }
 
 #hover-visible:hover{
@@ -283,5 +283,4 @@ a:hover, a:focus, a:active {
 
 .flex-right {
   margin-left: auto;
-  
 }
