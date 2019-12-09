@@ -10,8 +10,8 @@ export default class About extends Component{
                 <section className="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
                 <div className="w-100">
                     <div className="mb-0 row">
-                        <div className="text-center col-sm-3 d-block d-lg-none">
-                            <img className="img-fluid img-profile rounded-circle" width="30%" height="30%" src="images/profile.jpg" alt=""></img>
+                        <div className="text-center col-sm-3 d-block d-lg-none my-auto">
+                            <img className="img-fluid img-profile rounded-circle mx-auto mb-2" src="images/profile2.png" alt=""></img>
                         </div>
                         <div className="col-sm-9">
                             <h1> <span className="text-primary">Saloni</span> Buddhadeo</h1>
@@ -37,12 +37,17 @@ export default class About extends Component{
 
                     </div>
                     <div className="subheading mb-5">
-                        {/* <span role="img" className="palm-tree" aria-label="palm-tree"></span> */}
                     Long Beach, CA 
                         <contactDetails></contactDetails>
                         {/* <br></br>+1 (657) 666-0787  */}
                         <br></br><a href="mailto:salonibuddhadeo@gmail.com">SaloniBuddhadeo@gmail.com</a>
                         {/* <a>firstname lastname @ gmail dot com</a> */}
+                    </div>
+                    <div style={{visibility:"collapse"}}>
+                        Hide me when screen size widE
+                        <div className="social-about">
+                            <Social></Social>
+                        </div>
                     </div>
                     <p className="lead mb-5">
                         <h4>Things you are passionate about are never random.</h4>
@@ -63,12 +68,7 @@ export default class About extends Component{
                         data-toggle="collapse" data-target="#navbarSupportedContent"
                         aria-controls="navbarSupportedContent" aria-expanded="false" 
                         aria-label="Toggle navigation"> */}
-                        <div style={{visibility:"collapse"}}>
-                        Hide me when screen size wide
-                        <div className="social-about">
-                            <Social></Social>
-                        </div>
-                        </div>
+                        
 
                 </div>
                 </section>

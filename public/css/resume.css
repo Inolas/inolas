@@ -198,8 +198,11 @@ section.resume-section .resume-item .resume-date {
   min-width: none;
 }
 
+/* MOBILE / TABLET DEVICES */
 @media (max-width: 992px){
-
+.social-about{
+  visibility: visible;
+}
 .sidebar-social{
     visibility: collapse;
     width: 0px;
@@ -237,7 +240,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #087099;
+color: #087099;
 }
 
 a:hover, a:focus, a:active {

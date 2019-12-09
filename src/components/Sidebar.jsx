@@ -23,10 +23,10 @@ export default class Sidebar extends Component {
             <span className="d-none d-lg-block">
               <img className="img-fluid img-profile rounded-circle mx-auto mb-2" src="images/profile2.png" alt=""></img>
             </span>
-            <span className="d-block d-lg-none">INOLAS</span>
+            <span className="d-block d-lg-none"></span>
           </a>
           <div  className="sidebar-social">
-            <Social>Hide me when screen size small</Social>
+            <Social>Hidden when screen size small</Social>
           </div>
         
         <div className="collapse navbar-collapse" id="navbarSupportedContent">

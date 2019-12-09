@@ -5,7 +5,7 @@ export default class Social extends Component{
         return(
             <div className="social-icons mb-3">
             <span className="linkedin-icon" data-toggle="tooltip" title="LinkedIn">
-              <a className="linkedin-icon" href="https://www.linkedin.com/in/saloni-buddhadeo-b94a67115/" 
+              <a className="linkedin-icon" href="https://www.linkedin.com/in/saloni-buddhadeo/" 
               target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-linkedin-in"></i>
               </a>
