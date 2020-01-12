@@ -35,12 +35,15 @@ export default class Education extends Component{
                         <div className="subheading">Courses taken:</div>
                         <ul className="fa-ul mb-0" style={ml}>
                         <li> Advanced Algorithms</li>
-                        <li> Advanced Software Engineering and Software Architecture</li>
+                        <li> Advanced Software Engineering</li>
+                        <li> Advanced Programming Languages</li>
+                        <li> Software Architecture</li>
                         <li> Database Architecture</li>
                         <li> Big Data and NoSQL</li>
                         <li> Software Frameworks using .NET</li>
                         <li> Object Oriented Programming</li>
                         <li> Deep Learning</li>
+                        <li> Advanced Operating Systems</li>
 
                         </ul>
                     </div>
@@ -56,11 +59,13 @@ export default class Education extends Component{
                             <ul class="fa-ul mb-0" style={ml}>
                             <li> Data Structures and Algorithms</li>
                             <li> Software Engineering</li>
+                            <li> Computer Architecture</li>
                             <li> Database Management</li>
                             <li> Artificial Intelligence</li>
                             <li> Web Development</li>
                             <li> Human Computer Interaction</li>
                             <li> Machine Learning</li>
+                            <li> Operating Systems</li>
 
                             </ul>
                         </div>

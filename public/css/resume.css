@@ -7,8 +7,9 @@
 body {
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 54px;
-  color: #c7d3de;
-  background: #000;
+  /* color: #c7d3de; */
+  color: #000;
+  background: #f0fbff;
 }
 
 @media (min-width: 992px) {
@@ -29,6 +30,7 @@ h6 {
   text-transform: uppercase;
   color: #343a40;
   color: #087099 !important;
+  
 }
 
 h1 {
@@ -236,7 +238,8 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #fff !important;
+  color: #000 !important;
+  /* fff */
 }
 
 a {
@@ -266,7 +269,8 @@ a:hover, a:focus, a:active {
 .project-card_content {
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
   padding: 15px;
-  color: #c7d3de;
+  color: #000000;
+  /* c7d3de */
 }
 
 .project-card-content_title {
