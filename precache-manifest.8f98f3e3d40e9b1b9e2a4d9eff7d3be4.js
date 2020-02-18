@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab6020cb21db2d52d8bcf1ba529abd17",
+    "revision": "37ae071874849f06667324193e218380",
     "url": "/inolas/index.html"
   },
   {
-    "revision": "ff9c343c7ba44def7dab",
+    "revision": "cf5b1dde2c02d04f0f2d",
     "url": "/inolas/static/css/main.ba49ec77.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/inolas/static/js/2.37e0e6af.chunk.js"
   },
   {
-    "revision": "ff9c343c7ba44def7dab",
-    "url": "/inolas/static/js/main.f482c1ab.chunk.js"
+    "revision": "cf5b1dde2c02d04f0f2d",
+    "url": "/inolas/static/js/main.a87e5c74.chunk.js"
   },
   {
     "revision": "569f56d86ba913b49b4c",
