@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/inolas/static/css/main.ba49ec77.chunk.css",
-    "main.js": "/inolas/static/js/main.b06b0107.chunk.js",
-    "main.js.map": "/inolas/static/js/main.b06b0107.chunk.js.map",
+    "main.js": "/inolas/static/js/main.d7762a08.chunk.js",
+    "main.js.map": "/inolas/static/js/main.d7762a08.chunk.js.map",
     "runtime~main.js": "/inolas/static/js/runtime~main.dad25cce.js",
     "runtime~main.js.map": "/inolas/static/js/runtime~main.dad25cce.js.map",
     "static/js/2.37e0e6af.chunk.js": "/inolas/static/js/2.37e0e6af.chunk.js",
     "static/js/2.37e0e6af.chunk.js.map": "/inolas/static/js/2.37e0e6af.chunk.js.map",
     "index.html": "/inolas/index.html",
-    "precache-manifest.d2b20d830421c68410e0e41d533ab441.js": "/inolas/precache-manifest.d2b20d830421c68410e0e41d533ab441.js",
+    "precache-manifest.46226d0b99b982860ded536206487c1d.js": "/inolas/precache-manifest.46226d0b99b982860ded536206487c1d.js",
     "service-worker.js": "/inolas/service-worker.js",
     "static/css/main.ba49ec77.chunk.css.map": "/inolas/static/css/main.ba49ec77.chunk.css.map"
   }
