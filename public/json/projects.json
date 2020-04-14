@@ -1,9 +1,73 @@
-{
-    "id": 10001,
-    "image_url": "https://avatars2.githubusercontent.com/u/11246819?v=4",
-    "title": "MECHANOGRAPHICS",
-    "description": "",
-    "": "",
-    "created_at": "2016-05-28",
-    "updated_at": "2019-11-23T07:18:18Z"
-  }
+[{
+        "id": 1001,
+        "thumbnail": "mgTN",
+        "title": "MECHANOGRAPHICS",
+        "subtitle": "Visualization of free body diagrams",
+        "place": "KJ SOMAIYA COLLEGE OF ENGINEERING, MUMBAI",
+        "description": "BE(Senior) project<br>A mechanics based problem is taken as input in the form of English sentence. Which is later processed using Stanford CoreNLP to render a free body diagram.",
+        "started": "May 2016",
+        "finished": "April 2017",
+        "img": ["mgUI1", "mgUI2", "mgUI3", "mgUI4"],
+        "technologies": ["Java", "JavaFX", "Stanford Core NLP"]
+    },
+    {
+        "id": 1002,
+        "thumbnail": "https://avatars2.githubusercontent.com/u/11246819?v=4",
+        "title": "Version Control System",
+        "subtitle": "",
+        "place": "CALIFORNIA STATIE UNIVERSITY, LONG BEACH",
+        "description": "Copies an existing repository into a destination folder of user's specified name. Exit application from the command prompt using 'exit' command. Non-valid words (in this case, only 'create' command is accepted) are rejected.",
+        "started": "January 2018",
+        "finished": "December 2019",
+        "img": [""],
+        "technologies": ["Java", "JSON"]
+    },
+    {
+        "id": 1003,
+        "thumbnail": "https://avatars2.githubusercontent.com/u/11246819?v=4",
+        "title": "Low Power Image Recognition",
+        "subtitle": "",
+        "place": "CALIFORNIA STATIE UNIVERSITY, LONG BEACH",
+        "description": "Objective of this project was to reduce the time required by a model to identify an image and test it on mobile phones. The project was inspired by the Low-Power Image Recognition Challenge by IEEE 2018. ImageNet data was collected and trained on several neural network models. Several available models such as, AlexNet, MobileNet. were modified and trained on various datasets.<br><br>Objective of this project was to reduce the time required by a model to identify an image and test it on mobile phones, inspired by the Low-Power Image Recognition Challenge by IEEE 2018. ImageNet data was collected and trained on several neural network models including AlexNet, MobileNet.",
+        "url": "",
+        "started": "November 2018",
+        "finished": "December 2018",
+
+        "img": ["ipir1"],
+        "technologies": ["Python", "TensorFlow Lite", "AWS"]
+    },
+    {
+        "id": 1004,
+        "thumbnail": "https://avatars2.githubusercontent.com/u/11246819?v=4",
+        "title": "Graph DB Exploration",
+        "subtitle": "",
+        "place": "",
+        "description": "Experimented various BigData Platform like AWS, Map Reduce, Apache Spark, and Graph DB tools like Neo4J, MongoDB, and GraphQL. Applied graph DB using Neo4J to a project for the professor's research, on neurons and its activation based on the human emotions.",
+        "started": "May 2016",
+        "finished": "April 2017",
+        "img": [],
+        "technologies": ["MEAN stack", "Neo4J", "Python", "NoSQL"]
+    },
+    {
+        "id": 1005,
+        "thumbnail": "https://avatars2.githubusercontent.com/u/11246819?v=4",
+        "title": "CSULB Police Department Safe Zone",
+        "subtitle": "Visualization of free body diagrams",
+        "place": "CSULB",
+        "description": "",
+        "started": "October 2018",
+        "finished": "December 2018",
+        "img": ["OpenGIS", "MySQL", "Java", "JDBC"]
+    },
+    {
+        "id": 1006,
+        "thumbnail": "https://avatars2.githubusercontent.com/u/11246819?v=4",
+        "title": "ClacNet",
+        "subtitle": "",
+        "place": "CSULB",
+        "description": "",
+        "started": "October 2018",
+        "finished": "December 2018",
+        "img": ["JavaScript", "CSS", "HTML", ""]
+    }
+]

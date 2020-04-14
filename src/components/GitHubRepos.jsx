@@ -43,7 +43,7 @@ export default class GitHubRepos extends Component{
             return(
             <div className="col-md-6">
                 <h2 className="mb-5">GitHub Repositories</h2>
-            {this.repo_cards(items)}
+                {this.repo_cards(items)}
             </div>
             )
         }

@@ -55,6 +55,7 @@ export default class Skills extends Component{
                 <ul className="fa-ul mb-0">
                 <li>
                     <i className="fa-li fa fa-plus"></i>
+                    Multi-tasking
                     </li>
                 <li>
                     <i className="fa-li fa fa-plus"></i>

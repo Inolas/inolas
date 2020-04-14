@@ -3,6 +3,12 @@ import Social from './SocialMedia'
 
 export default class Sidebar extends Component {
   render() {
+    const styleUpdate = {
+      color: "white",
+      float: "right",
+      margin: "30px 0px 0px -200px",
+      transform: "rotate(305deg)"
+    };
     const color = {
       color: '#000'
     };
@@ -13,7 +19,7 @@ export default class Sidebar extends Component {
       <div>
         <nav className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav" 
         data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-          
+          <span style={styleUpdate}>Updating soon.</span>
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>

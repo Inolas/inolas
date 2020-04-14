@@ -51,7 +51,8 @@ export default class About extends Component{
                     </div>
                     <p className="lead mb-5">
                         <h4>Things you are passionate about are never random.</h4>
-                        Software Engineer and a Web Developer who loves to take challenges and believes in idea of constantly creating new things
+                        Software Engineer and a Web Developer.<br/> 
+                        I like to take challenges and create new things.
                         
                         {/* I was in 9th grade when I "developed my first website"...... fastforward today I like to work with Databases, 
                     I get inspiration and motivation from observing things in my surrounding, and that is why I prefer.
