@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/inolas/static/css/main.ba49ec77.chunk.css",
-    "main.js": "/inolas/static/js/main.d7762a08.chunk.js",
-    "main.js.map": "/inolas/static/js/main.d7762a08.chunk.js.map",
-    "runtime~main.js": "/inolas/static/js/runtime~main.dad25cce.js",
-    "runtime~main.js.map": "/inolas/static/js/runtime~main.dad25cce.js.map",
-    "static/js/2.37e0e6af.chunk.js": "/inolas/static/js/2.37e0e6af.chunk.js",
-    "static/js/2.37e0e6af.chunk.js.map": "/inolas/static/js/2.37e0e6af.chunk.js.map",
+    "main.css": "/inolas/static/css/main.2cce8147.chunk.css",
+    "main.js": "/inolas/static/js/main.d65fa3a4.chunk.js",
+    "main.js.map": "/inolas/static/js/main.d65fa3a4.chunk.js.map",
+    "runtime~main.js": "/inolas/static/js/runtime~main.68d792a6.js",
+    "runtime~main.js.map": "/inolas/static/js/runtime~main.68d792a6.js.map",
+    "static/js/2.d21fb203.chunk.js": "/inolas/static/js/2.d21fb203.chunk.js",
+    "static/js/2.d21fb203.chunk.js.map": "/inolas/static/js/2.d21fb203.chunk.js.map",
     "index.html": "/inolas/index.html",
-    "precache-manifest.46226d0b99b982860ded536206487c1d.js": "/inolas/precache-manifest.46226d0b99b982860ded536206487c1d.js",
+    "precache-manifest.5a87eb39dd1001fff1b548ff245f4203.js": "/inolas/precache-manifest.5a87eb39dd1001fff1b548ff245f4203.js",
     "service-worker.js": "/inolas/service-worker.js",
-    "static/css/main.ba49ec77.chunk.css.map": "/inolas/static/css/main.ba49ec77.chunk.css.map"
+    "static/css/main.2cce8147.chunk.css.map": "/inolas/static/css/main.2cce8147.chunk.css.map"
   }
 }
